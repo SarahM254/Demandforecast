@@ -1,2 +1,5 @@
 # Demandforecast
 This is a machine learning project built using python.
+The manufacturing sector is highly influenced by supply and demand of goods in the market. The ability to predict demand quantities can have a positive impact on the input required to produce a certain product. It can minimize wastage and shortage enabling an organization to maximize its profits. Using the factors of production and machine learning, we can be able to predict demand and build a model that is sustainable and easy to understand.
+The dataset used for this project includes factors of production such as Production Cost, Inventory Turnover, Stockout Rate, Delivery Delay, Supplier Quality, Defect Rate, Quality Score, Worker Productivity, Downtime Percentage, and Energy Consumption. Through these features we can be able to predict Production Volumes and identify areas that need improvement. The technique used in data modelling was to train the model using the 80-20 split rule and measure its accuracy using MAE and RMSE. 
+
